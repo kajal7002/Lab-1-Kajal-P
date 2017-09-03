@@ -1,1 +1,1 @@
-# ITMD Lab 1: Kajal Patel
+# ITMD 361 Lab 1
