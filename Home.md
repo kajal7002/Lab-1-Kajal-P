@@ -1,1 +1,1 @@
-Welcome to the Lab-1-Kajal-P wiki!
+Welcome to the Lab-1-Kajal-P!
